@@ -1,0 +1,12 @@
+{
+	"name": "shifana",
+	"course": "API",
+	"Duration": 10,
+	"Mobile": 12345677,
+	"Completed": true,
+	"address": {
+		"street": "1st street",
+		"city": "Athiyuthu",
+		"pincode": 647833
+	}
+}

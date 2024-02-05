@@ -1,0 +1,28 @@
+{
+	"name":"Shifa",
+	"email": "shifana@gmail.com",
+	"mobile": 879837498,
+	"courses":[
+		{
+			"student1":"java",
+			"student2" : "csharp",
+			"student3":"python"
+		},
+			{
+			"student1":"java",
+			"student2" : "csharp",
+			"student3":"python"
+		},
+			{
+			"student1":"java",
+			"student2" : "csharp",
+			"student3":"python"
+		},
+			{
+			"student1":"java",
+			"student2" : "csharp",
+			"student3":"python"
+		}
+		
+	]
+}
